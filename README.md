@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisha Roy</h1>
-<h3 align="center">A dadicated learner from India</h3>
+<h3 align="center">A dedicated learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishajoy&label=Profile%20views&color=0e75b6&style=flat" alt="anishajoy" /> </p>
 
